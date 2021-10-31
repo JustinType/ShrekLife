@@ -1,4 +1,8 @@
-<h1 align="center"><a href="https://youtu.be/L_jWHffIx5E?t=37" target="_blank"> <img src="https://www.pngall.com/wp-content/uploads/2/Shrek-PNG-Transparent-HD-Photo.png" alt="Shrek" width="50" height="50"/> </a>ShrekLife<a href="https://youtu.be/L_jWHffIx5E?t=37" target="_blank"> <img src="https://www.pngall.com/wp-content/uploads/2/Shrek-PNG-Transparent-HD-Photo.png" alt="Shrek" width="50" height="50"/></h1>
+<h1 align="center">
+  <a href="https://youtu.be/L_jWHffIx5E?t=37" target="_blank"> <img src="https://www.pngall.com/wp-content/uploads/2/Shrek-PNG-Transparent-HD-Photo.png" alt="Shrek" width="50" height="50"/></a> 
+  ShrekLife 
+  <a href="https://youtu.be/L_jWHffIx5E?t=37" target="_blank"> <img src="https://www.pngall.com/wp-content/uploads/2/Shrek-PNG-Transparent-HD-Photo.png" alt="Shrek" width="50" height="50"/>
+    </h1>
 
 <hr>
 
@@ -10,4 +14,5 @@
 
 <hr>
 
-<h4 align="left">Link : <a href="https://shreklife.netlify.app/" target="_blank">ShrekLife</a> </h4>
+<h4 align="left">I left it online to remember where I started years ago</h4>
+  <h4 align="left">Link : <a href="https://shreklife.netlify.app/" target="_blank">ShrekLife </a></h4>
